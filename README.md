@@ -1,5 +1,5 @@
 # WastepackCalculator
-A calculator to calculalte how many wastepack atomisers you need
+A calculator to calculale how many wastepack atomisers you need in your colony
 
 The first coloumn for the amount of 1 bandwidth mechanoids you own, the second coloumn for 2 bandwith mechanoids and so on.
 
