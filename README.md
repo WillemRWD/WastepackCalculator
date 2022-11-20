@@ -5,3 +5,5 @@ The first coloumn for the amount of 1 bandwidth mechanoids you own, the second c
 
 Press Calculate and the number in the bottom right indicates the amount of wastepack atomisers needed to fully sustain your mechanoids.
 Note, that the program automatically rounds up, so if you technically need 5.16 atomisers, the program will tell you, you need 6.
+
+The program also assumes, that your mechanoids work with 100% efficiency, that means, that they have a constant access to rechargers and never turn off.
